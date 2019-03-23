@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-searchbox {
+  height: 5vmin;
+  width: 40vmin;
+  font-size: 19px;
+  padding: 10px;
+  border: 1px solid grey
+}
+
+.App-button {
+  height: 5vmin;
+  width: 40vmin;
+  font-size: 19px;
+
+
+}
+
+.App-header {
+  background-color: #ccffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-info {
+  color: #003300;
+}
+
+/* @keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
