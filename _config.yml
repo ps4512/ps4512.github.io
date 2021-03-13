@@ -21,7 +21,7 @@
 title: 邵鹏的博客 Peng's Blog
 # email: pengshao2021@163.com
 description: >- # this means to ignore newlines until "baseurl:"
-  记录我的学习与思考
+  记录我的学习与思考 🤔
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://portfolio.thenewsdroid.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
