@@ -6,7 +6,7 @@ permalink: /about/
 
 
 
-<a href="https://thenewsdroid/document/msc_project.pdf" target="_blank">计算机硕士毕业论文-英文单词学习系统</a>
+<a href="https://thenewsdroid.com/document/msc_project.pdf" target="_blank">计算机硕士毕业论文-英文单词学习系统</a>
 
 
 
